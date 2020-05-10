@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactWeb/static/css/main.fe7f79cb.chunk.css",
+    "main.js": "/ReactWeb/static/js/main.d85d7be2.chunk.js",
+    "main.js.map": "/ReactWeb/static/js/main.d85d7be2.chunk.js.map",
+    "runtime-main.js": "/ReactWeb/static/js/runtime-main.de53d5cd.js",
+    "runtime-main.js.map": "/ReactWeb/static/js/runtime-main.de53d5cd.js.map",
+    "static/js/2.dfdad824.chunk.js": "/ReactWeb/static/js/2.dfdad824.chunk.js",
+    "static/js/2.dfdad824.chunk.js.map": "/ReactWeb/static/js/2.dfdad824.chunk.js.map",
+    "index.html": "/ReactWeb/index.html",
+    "precache-manifest.f475d0c7e8601bf3e678008ef1b3762b.js": "/ReactWeb/precache-manifest.f475d0c7e8601bf3e678008ef1b3762b.js",
+    "service-worker.js": "/ReactWeb/service-worker.js",
+    "static/css/main.fe7f79cb.chunk.css.map": "/ReactWeb/static/css/main.fe7f79cb.chunk.css.map",
+    "static/js/2.dfdad824.chunk.js.LICENSE.txt": "/ReactWeb/static/js/2.dfdad824.chunk.js.LICENSE.txt",
+    "static/media/iconfinder_Star_5349757.png": "/ReactWeb/static/media/iconfinder_Star_5349757.c176c44c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de53d5cd.js",
+    "static/js/2.dfdad824.chunk.js",
+    "static/css/main.fe7f79cb.chunk.css",
+    "static/js/main.d85d7be2.chunk.js"
+  ]
+}
